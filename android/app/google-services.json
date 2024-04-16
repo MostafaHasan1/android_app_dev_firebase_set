@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715000715146",
+    "project_id": "class4-firebase-setup",
+    "storage_bucket": "class4-firebase-setup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715000715146:android:cfff8a6a3295697d67da73",
+        "android_client_info": {
+          "package_name": "com.example.firebase_setup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvj65kPGU-UZ8hVapMTPobNySWpv85J6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
